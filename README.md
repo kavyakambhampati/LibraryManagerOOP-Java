@@ -33,9 +33,9 @@ java Main
 
 ```
 
-## 🖼 Sample Output
 
-![ LibraryManagerOOP-Java Screenshot](Library.sc.png)
+## 📸 Screenshot  
+![Library Management System Screenshot](library.sc.png)
 
 ---
 
